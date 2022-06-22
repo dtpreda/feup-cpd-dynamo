@@ -8,4 +8,4 @@ Some technical details are discussed in the [final report](/doc/report.pdf). Ple
 
 ## Disclaimer
 
-This is a college project, with a major emphasis on learning. Therefore, it's technical quality, safety and performance are not guaranteed. Use it at your own risk. We will not hold any reponsability for any kind of use of this program, it's code or any related item.
+This is a college project, with a major emphasis on learning. Therefore, its technical quality, safety and performance are not guaranteed. Use it at your own risk. We will not hold any reponsability for any kind of use of this program, its code or any related item.
